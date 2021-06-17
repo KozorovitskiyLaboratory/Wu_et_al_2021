@@ -1,7 +1,7 @@
 # Wu et al., 2021
 Code accompanying: "Attenuated dopamine signaling after aversive learning is restored by ketamine to rescue escape actions."
 
-Mingzheng Wu, Samuel Minkowicz, Vasin Dumrongprechachan, Pauline Hamilton, Lei Xiao, Yevgenia Kozorovitskiy*
+Authors: Mingzheng Wu, Samuel Minkowicz, Vasin Dumrongprechachan, Pauline Hamilton, Lei Xiao, Yevgenia Kozorovitskiy*
 
 https://elifesciences.org/articles/64041
 
