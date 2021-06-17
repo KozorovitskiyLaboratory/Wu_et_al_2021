@@ -3,7 +3,7 @@ Code accompanying: "Attenuated dopamine signaling after aversive learning is res
 
 Mingzheng Wu, Samuel Minkowicz, Vasin Dumrongprechachan, Pauline Hamilton, Lei Xiao, Yevgenia Kozorovitskiy*
 
-Date TBD
+https://elifesciences.org/articles/64041
 
 ## Dependencies
 The Python code depends on numpy, scipy, pandas, matplotlib, and graphviz.
